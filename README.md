@@ -1,4 +1,4 @@
-# micro-BITE
+# micro:BITE
 
 ## Trailer
 
