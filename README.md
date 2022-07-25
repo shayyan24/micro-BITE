@@ -1,7 +1,7 @@
 # micro:BITE
 
 ## Trailer:
-[![micro:BITE trailer](https://img.youtube.com/vi/fVtHqE2VgTM/0.jpg)](https://youtu.be/fVtHqE2VgTM)
+[![micro:BITE trailer](img/microbite_thumbnail.png)](https://youtu.be/fVtHqE2VgTM)
 
 (click on the image to open the YouTube link)
 ## Description 
