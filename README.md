@@ -1,4 +1,6 @@
-# micro:BITE (Awarded Runner-Up for North America in do your :bit Challenge)
+# micro:BITE 
+
+## (Awarded Runner-Up in North America for the [do your :bit Challenge](https://microbit.org/projects/do-your-bit/winners/2022/) Hosted by micro:bit)
 
 ## Trailer:
 [![micro:BITE trailer](img/microbite_thumbnail.png)](https://youtu.be/fVtHqE2VgTM)
