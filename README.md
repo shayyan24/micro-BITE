@@ -1,4 +1,4 @@
-# micro:BITE
+# micro:BITE (Awarded Runner-Up for North America in do your :bit Challenge)
 
 ## Trailer:
 [![micro:BITE trailer](img/microbite_thumbnail.png)](https://youtu.be/fVtHqE2VgTM)
